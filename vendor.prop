@@ -1,3 +1,8 @@
+# Ram Tweaks (For 4gb/3gb Ram Devices)
+persist.sys.purgeable_assets=1
+persist.service.pcsync.enable=0
+persist.service.lgospd.enable=0
+
 # Audio
 aaudio.mmap_exclusive_policy=0
 aaudio.mmap_policy=0
